@@ -9,4 +9,4 @@
 - Hannah E. Fuchs
 - Katherine S. Panageas
 
-This repository serves as analysis code for the manuscript "Genomic characterization and clinical outcomes of patients with peritoneal metastases from colorectal cancer." 
+This repository contains the analysis code for the manuscript "Genomic characterization and clinical outcomes of patients with peritoneal metastases from colorectal cancer."
